@@ -11,4 +11,5 @@ public class tDetails {
     private float  uPrice;
     private int quantity;
     private float amount;
+//第二次修改
 }
