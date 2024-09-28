@@ -10,4 +10,5 @@ public class company {
     private String address;
     private  Integer postcode;
     private String phoneNumber;
+// B1的修改
 }
